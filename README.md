@@ -1,2 +1,1 @@
-# dev-portfolio
-A minimal placeholder for a web developer's portfolio. 
+My personal site, based on dev-portfolio by my friend [Kelsey](https://github.com/kelseyll)
